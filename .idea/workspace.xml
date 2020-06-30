@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MordziatyPvP:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fe060a7-0963-49d7-b8da-b7ae1db8cadc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZdEz9UYnERvm9AH0xw1boepS63" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/worldedit-bukkit-7.1.0.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fe060a7-0963-49d7-b8da-b7ae1db8cadc" name="Default Changelist" comment="" />
+      <created>1585160830751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585160830751</updated>
+      <workItem from="1585160833775" duration="7202000" />
+      <workItem from="1585593075259" duration="1189000" />
+      <workItem from="1586178731715" duration="658000" />
+      <workItem from="1586241466013" duration="31000" />
+      <workItem from="1586260363306" duration="1582000" />
+      <workItem from="1587020502569" duration="1200000" />
+      <workItem from="1587107603825" duration="171000" />
+      <workItem from="1587195920242" duration="144000" />
+      <workItem from="1587378313729" duration="1605000" />
+      <workItem from="1587979307829" duration="12080000" />
+      <workItem from="1588063109884" duration="2810000" />
+      <workItem from="1588236833609" duration="2458000" />
+      <workItem from="1592757688194" duration="1649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="659" y="322" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585160913906">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="659" y="322" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1585160913906" />
+    <state x="635" y="281" key="FileChooserDialogImpl" timestamp="1585162914049">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="635" y="281" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1585162914049" />
+    <state x="409" y="114" key="SettingsEditor" timestamp="1585162919713">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="409" y="114" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1585162919713" />
+    <state x="617" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1588063340456">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="617" y="363" key="com.intellij.ide.util.TipDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1588063340456" />
+    <state x="308" y="160" key="new project wizard" timestamp="1587996094082">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="308" y="160" key="new project wizard/0.0.1842.1080@0.0.1842.1080" timestamp="1587996094082" />
+    <state x="311" y="160" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1585160858888" />
+  </component>
+</project>

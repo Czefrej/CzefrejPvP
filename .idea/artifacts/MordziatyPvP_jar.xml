@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MordziatyPvP:jar">
+    <output-path>$PROJECT_DIR$/../plugins</output-path>
+    <root id="archive" name="MordziatyPvP.jar">
+      <element id="module-output" name="MordziatyPvP" />
+    </root>
+  </artifact>
+</component>
